@@ -14,7 +14,7 @@ Useless? I know.
 ## Install and setup the bot:
 
 1. You need to [clone](https://github.com/cryptidv/thebot/archive/main.zip) the bot.
-3. Config bot through the .env file. Set the token and prefix.
+3. Config bot through the [.env file](https://github.com/cryptidv/thebot/blob/main/.env). Set the token and prefix.
 2. Run `npm i`
 3. Start the bot with `npm start`
 
