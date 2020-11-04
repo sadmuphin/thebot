@@ -19,7 +19,8 @@ Useless? I know.
 3. Start the bot with `npm start`
 
 ## Hosted bot
-Wanna invite this absolutely useless bot (hosted) to a server? [**Click here**](https://discord.com/oauth2/authorize?client_id=655447867997028363&permissions=0&scope=bot) 
+Wanna invite this absolutely useless bot (hosted) to a server? [**Click here**](https://discord.com/oauth2/authorize?client_id=655447867997028363&permissions=0&scope=bot)<br>
+**prefix: !**
 
 ## Wanna Commit to the repo (why?) with new commands?
 1. Install the bot and start.
