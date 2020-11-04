@@ -1,0 +1,26 @@
+{
+  "name": "thebot",
+  "version": "1.0.0",
+  "description": "first time using github in ages",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cryptidv/thebot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cryptidv/thebot/issues"
+  },
+  "homepage": "https://github.com/cryptidv/thebot#readme",
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord.js": "^12.4.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
